@@ -26,7 +26,9 @@ int main() {
   return 0;
 }
 ~~~
+
 # OUTPUT:![image](https://github.com/user-attachments/assets/304d175b-4fc1-4076-8423-2e69ad20a3d1)
+
 
 # RESULT:
  The program is executed successfully.
