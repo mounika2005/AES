@@ -17,7 +17,7 @@ void xorCrypt(char *in, char *key) {
 }
 
 int main() {
-  char msg[] = "Mouni", key[] = "sec";
+  char msg[] = "Mounika", key[] = "sec";
   printf("Original: %s\n", msg);
   xorCrypt(msg, key);
   printf("Encrypted: %s\n", msg);
@@ -26,8 +26,8 @@ int main() {
   return 0;
 }
 ~~~
-# OUTPUT:
-![cry ex 8](https://github.com/user-attachments/assets/04d41c84-967e-42ff-be56-63a2f35dfb11)
+# OUTPUT:![image](https://github.com/user-attachments/assets/304d175b-4fc1-4076-8423-2e69ad20a3d1)
+
 # RESULT:
  The program is executed successfully.
 
